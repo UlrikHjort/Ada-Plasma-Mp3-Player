@@ -140,6 +140,8 @@ This uses ffmpeg to create an MP4 with:
 
 In record mode, automatic switching is enabled by default so the exported video changes visuals as the music changes.
 
+Example of mp4 recording: [recording](https://www.youtube.com/watch?v=SRYWhsTDb7w)
+
 ## Playlist wrapper
 
 The player it self stay single-track on purpose. That keeps playback and MP4 export simple.
